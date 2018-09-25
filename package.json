@@ -1,0 +1,17 @@
+{
+  "name": "shop_demo",
+  "version": "1.0.0",
+  "description": "shop demo",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ys",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.2.17"
+  }
+}
